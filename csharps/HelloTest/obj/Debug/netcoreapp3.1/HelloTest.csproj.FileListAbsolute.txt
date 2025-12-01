@@ -1,0 +1,14 @@
+F:\codes\csharps\HelloTest\bin\Debug\netcoreapp3.1\HelloTest.exe
+F:\codes\csharps\HelloTest\bin\Debug\netcoreapp3.1\HelloTest.deps.json
+F:\codes\csharps\HelloTest\bin\Debug\netcoreapp3.1\HelloTest.runtimeconfig.json
+F:\codes\csharps\HelloTest\bin\Debug\netcoreapp3.1\HelloTest.runtimeconfig.dev.json
+F:\codes\csharps\HelloTest\bin\Debug\netcoreapp3.1\HelloTest.dll
+F:\codes\csharps\HelloTest\bin\Debug\netcoreapp3.1\HelloTest.pdb
+F:\codes\csharps\HelloTest\obj\Debug\netcoreapp3.1\HelloTest.csproj.AssemblyReference.cache
+F:\codes\csharps\HelloTest\obj\Debug\netcoreapp3.1\HelloTest.GeneratedMSBuildEditorConfig.editorconfig
+F:\codes\csharps\HelloTest\obj\Debug\netcoreapp3.1\HelloTest.AssemblyInfoInputs.cache
+F:\codes\csharps\HelloTest\obj\Debug\netcoreapp3.1\HelloTest.AssemblyInfo.cs
+F:\codes\csharps\HelloTest\obj\Debug\netcoreapp3.1\HelloTest.csproj.CoreCompileInputs.cache
+F:\codes\csharps\HelloTest\obj\Debug\netcoreapp3.1\HelloTest.dll
+F:\codes\csharps\HelloTest\obj\Debug\netcoreapp3.1\HelloTest.pdb
+F:\codes\csharps\HelloTest\obj\Debug\netcoreapp3.1\HelloTest.genruntimeconfig.cache
