@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\codes\\Project26\\csharps\\HelloTest\\HelloTest.csproj",
-      "projectName": "HelloTest",
-      "projectPath": "F:\\codes\\Project26\\csharps\\HelloTest\\HelloTest.csproj",
+      "projectUniqueName": "F:\\codes\\Project26\\csharps\\Multiplication\\Multiplication.csproj",
+      "projectName": "Multiplication",
+      "projectPath": "F:\\codes\\Project26\\csharps\\Multiplication\\Multiplication.csproj",
       "packagesPath": "C:\\Users\\Com5_xxx\\.nuget\\packages\\",
-      "outputPath": "F:\\codes\\Project26\\csharps\\HelloTest\\obj\\",
+      "outputPath": "F:\\codes\\Project26\\csharps\\Multiplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

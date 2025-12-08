@@ -1,0 +1,5 @@
+F:\codes\Project26\csharps\Multiplication\obj\Debug\netcoreapp3.1\Multiplication.csproj.AssemblyReference.cache
+F:\codes\Project26\csharps\Multiplication\obj\Debug\netcoreapp3.1\Multiplication.GeneratedMSBuildEditorConfig.editorconfig
+F:\codes\Project26\csharps\Multiplication\obj\Debug\netcoreapp3.1\Multiplication.AssemblyInfoInputs.cache
+F:\codes\Project26\csharps\Multiplication\obj\Debug\netcoreapp3.1\Multiplication.AssemblyInfo.cs
+F:\codes\Project26\csharps\Multiplication\obj\Debug\netcoreapp3.1\Multiplication.csproj.CoreCompileInputs.cache

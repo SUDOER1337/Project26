@@ -1,8 +1,3 @@
 is_global = true
 build_property.RootNamespace = HelloTest
-build_property.ProjectDir = f:\codes\Project26\csharps\HelloTest\
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
-build_property.CsWinRTUseWindowsUIXamlProjections = false
-build_property.EffectiveAnalysisLevelStyle = 
-build_property.EnableCodeStyleSeverity = 
+build_property.ProjectDir = F:\codes\Project26\csharps\HelloTest\
