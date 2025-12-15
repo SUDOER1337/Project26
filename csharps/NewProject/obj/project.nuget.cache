@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TErnhCdJKRPcrrfRgbW83Vsoaxvo6F4oSj9lFO5/+vsyr1u7XRZ8jtzF8qB4OYKB9/OBCI3DlFVnqbUny6D6uA==",
+  "success": true,
+  "projectFilePath": "/run/media/thinker/DoNotOpen/codes/Project26/csharps/NewProject/myproject.csproj",
+  "expectedPackageFiles": [
+    "/home/thinker/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.22/microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}
